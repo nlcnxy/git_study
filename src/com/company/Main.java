@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("吼吼吼");
         System.out.println("吼吼吼2222");
+        System.out.println("吼吼吼3333");
     }
 }
